@@ -1,6 +1,6 @@
 # Balanced Employee Intellectual Property Agreement  
 
-This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT ("Agreement") is made between person named below and [COMPANY NAME], a [State of Incorporation] corporation, having a place of business at [COMPANY ADDRESS] ("Company").
+This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT ("Agreement") is made between person named below and [COMPANY NAME], a [State of Incorporation] corporation, having a place of business at [COMPANY ADDRESS\] ("Company").
 
 (1.0) **What is this?** This is the Intellectual Property Agreement (“Agreement”) between you and the Company. If you’ve worked in the technology space before, there’s a good chance that you’ve run across one or more of these in the past. Depending on its contents, it may have been called an “IP Agreement,” “Invention Assignment Agreement,” “Creation Assignment Agreement,” or something else. This document is the official, entire and exclusive agreement on the divide between your intellectual property ("IP") and the Company's.
 
