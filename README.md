@@ -38,7 +38,7 @@ You don't want to have to look over your shoulder or hide, feel forced into stay
 
 ### Why is BEIPA good for innovation? For society?
 
-We know that societies and industries prosper when there is clear and fair (thus efficient and legitimate) property ownership and high labor autonomy and mobility. Employers control all IP created by employees, even created during free time and not related to the business, sets up conflict, is perceived as unfair, and has employees and their ideas trapped. The effects of such control projected into the future (or not) has been well studied: the non-enforceability of non-compete agreements in California is one of the key advantages Silicon Valley has had over other locales – where employees have to wait years to strike out on their own.
+We know that societies and industries prosper when there is clear and fair (thus efficient and legitimate) property ownership and high labor autonomy and mobility. Employer control all IP created by employees, even created during free time and not related to the business, sets up conflict, is perceived as unfair, and has employees and their ideas trapped. The effects of such control projected into the future (or not) has been well [studied](http://webdoc.sub.gwdg.de/ebook/serien/lm/DRUIDwp/10-02.pdf): the non-enforceability of non-compete agreements in California is one of the key advantages Silicon Valley has had over other locales – where employees have to wait years to strike out on their own.
 
 Broad adoption of BEIPA should have similar beneficial effects for the people, companies, communities, and industries in which BEIPA is adopted.
 
