@@ -1,6 +1,6 @@
 # Balanced Employee Intellectual Property Agreement  
 
-This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is made between person named below and [COMPANY NAME] \(the "Company"), a [State of Incorporation] corporation, having a place of business at [COMPANY ADDRESS].
+This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is made between person named below and [COMPANY NAME], a [State of Incorporation] corporation, having a place of business at [COMPANY ADDRESS\] ("Company").
 
 (1.0) **What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company.
 
