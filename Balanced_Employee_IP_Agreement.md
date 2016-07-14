@@ -1,6 +1,6 @@
 # Balanced Employee Intellectual Property Agreement  
 
-This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is made between person named below and [COMPANY NAME] (the "Company"), a [State of Incorporation] corporation, having a place of business at [COMPANY ADDRESS].
+This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is made between person named below and [COMPANY NAME] \(the "Company"), a [State of Incorporation] corporation, having a place of business at [COMPANY ADDRESS].
 
 (1.0) **What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company.
 
@@ -20,7 +20,7 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
 (4.0) **Contribution of Your IP to Company Projects.** If you include your own IP – such as an IP you created prior to working for the Company – into a Company product or service, it's still yours, of course, but you grant the Company a nonexclusive, irrevocable, fully paid-up, royalty-free, perpetual, sub-licensable, transferable, worldwide license to use it without restriction in any way or implementation, in modified form, or as is, by itself, or incorporated into another product or service ("License"). If you include your name in any project over which the Company would have rights under this Agreement, such as in a copyright notice or a comment in code or documentation, then the License covers the rights associated with that use of your name as well.
 
-(5.0) **Your contributions to Non-Company Projects.** The Company recognizes that you may be engaged in work that requires you to submit code to entities other than the Company, such as libgit2 or Git. Please make sure that the Company's legal department is aware of what you're working on so that we can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with the Company's legal department before doing so. These agreements may be legally binding on the Company and so should be run through the legal department first.
+(5.0) **Your contributions to Non-Company Projects.** The Company recognizes that you may be engaged in work that requires you to submit code to entities other than the Company, such as libgit2 or Git. Please make sure that the Company's legal department is aware of what you're working on so that the legal department can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with the Company's legal department before doing so. These agreements may be legally binding on the Company and so should be run through the legal department first.
 
 (6.0) **Works made for hire.** All Company IP that you are involved with or create as part of your work for the Company are [works made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and are compensated by your regular salary or pay.
 
