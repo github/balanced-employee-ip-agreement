@@ -12,7 +12,7 @@ The Company also believes that it's important to be clear on what it doesn't own
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
-(2.0) **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create *as its employee*, but only if it meets one or more of these additional conditions: The IP (i) relates to an existing or future Company product or service, (ii) was developed for use by the Company, (iii) was developed or promoted with existing Company IP or with Company’s endorsement. You grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
+(2.0) **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create *as its employee*, but only if it meets one or more of these additional conditions: The IP (i) relates to an existing or prospective Company product or service, (ii) was developed for use by the Company, (iii) was developed or promoted with existing Company IP or with Company’s endorsement. You grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
 
 "Company IP" includes concepts, inventions, designs, developments, discoveries, ideas, improvements, trade secrets, trademarks and any original works of authorship.
 
