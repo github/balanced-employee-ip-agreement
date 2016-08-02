@@ -12,7 +12,7 @@ The Company also believes that it's important to be clear on what it doesn't own
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
-(2.0) **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create _as its employee_, but only if it meets one or more of these additional conditions: The IP (i) related to an existing or prospective Company product or service at the time you developed, invented, or created it, (ii) was developed for use by the Company, (iii) was developed or promoted with existing Company IP or with the Company’s endorsement. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
+(2.0) **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create _as its employee or contractor_, but only if it meets one or more of these additional conditions: The IP (i) related to an existing or prospective Company product or service at the time you developed, invented, or created it, (ii) was developed for use by the Company, (iii) was developed or promoted with existing Company IP or with the Company’s endorsement. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
 
 "Company IP" includes concepts, inventions, designs, developments, discoveries, ideas, improvements, trade secrets, trademarks and any original works of authorship.
 
@@ -28,7 +28,13 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
 (8.0) **IP Protection.** The Company might someday need to show the work that went into the development of IP that it uses or has used, or to make government filings to establish that it owns the IP or has rights over it. To help in those situations, you agree not to destroy any records you maintain relating to the development of any Company IP or IP under License (together, "All IP"), and, if the Company asks, to provide those records to the Company. You agree to help the Company secure and defend its rights in All IP, including after you leave the Company, and you authorize the Company to act on your behalf (as your agent and attorney-in-fact) in securing all rights related to All IP.   
 
-(9.0) **Confidentiality.** As an employee of the Company, you will have access to trade secrets and confidential information that are important to the Company’s business. You are responsible for keeping this information confidential, including after you end your work for the Company.
+(9.0) **Confidentiality.** As an employee or contractor of the Company, you will have access to sensitive confidential information that is important to the Company’s business. You are responsible for keeping this information confidential, including after you end your work for the Company.
+
+Please be aware, however, that under the <a href="http://uscode.house.gov/view.xhtml?req=(title:18%20section:1833%20edition:prelim)">Defend Trade Secrets Act of 2016</a>, you have the right to disclose trade secrets, confidentially, to the government or a lawyer for the purpose of reporting or investigating a suspected violation of law, or you may disclose trade secrets in documents filed under seal in a legal proceeding.
+
+"Confidential Information" includes non-public technical details about our products or services, financial information, business strategies and forecasts, customer data, or any other information, data or know-how that is valuable to the Company because it is not publicly known.
+
+The Company's Confidential Information is sensitive and we expect that you'll treat it as such. You agree to only use the Company's Confidential Information for the purpose of performing your job and for the benefit of the Company. You will do your best to keep internal Company information secret. If you are not sure if something is Confidential Information, you should assume that it is, until you can confirm otherwise.
 
 Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
