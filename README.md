@@ -20,7 +20,9 @@ Contributors to this project are not your lawyers and nothing in this repository
 
 ### How does BEIPA differ from other employee IP agreements?
 
-Many employee IP agreements are very generous – to the employer. To the extent [allowable by law](#in-what-jurisdictions-is-beipa-applicable), the employer gets control of everything the employee creates during the period of employment, 24/7, and sometimes anything created before the period of employment, and sometimes control over what a former employee can create (through "non-compete" terms). BEIPA only claims control of what the employee creates during the period of employment, and only creations made for or relating to the company's business. There surely are other "balanced" employee IP agreements in use. We hope so, and encourage progressive companies to share their agreements and lessons.
+Many employee IP agreements are very generous – to the employer. To the extent [allowable by law](#in-what-jurisdictions-is-beipa-applicable), the employer gets control of everything the employee creates during the period of employment, 24/7, and sometimes anything created before the period of employment, and sometimes control over what a former employee can create (through "non-compete" terms). For an overview, see _[The New Cognitive Property: Human Capital Law and the Reach of Intellectual Property](https://ssrn.com/abstract=2517604)_.
+
+BEIPA only claims control of what the employee creates during the period of employment, and only creations made for or relating to the company's business. There surely are other "balanced" employee IP agreements in use. We hope so, and encourage progressive companies to share their agreements and lessons.
 
 ### Why would a an employer want to use BEIPA?
 
