@@ -22,7 +22,7 @@ Contributors to this project are not your lawyers and nothing in this repository
 
 Many employee IP agreements are very generous – to the employer. To the extent [allowable by law](#in-what-jurisdictions-is-beipa-applicable), the employer gets control of everything the employee creates during the period of employment, 24/7, and sometimes anything created before the period of employment, and sometimes control over what a former employee can create (through "non-compete" terms). For an overview, see _[The New Cognitive Property: Human Capital Law and the Reach of Intellectual Property](https://ssrn.com/abstract=2517604)_.
 
-BEIPA only claims control of what the employee creates during the period of employment, and only creations made for or relating to the company's business. There surely are other "balanced" employee IP agreements in use. We hope so, and encourage progressive companies to share their agreements and lessons.
+BEIPA only claims control of what the employee creates during the period of employment, and only creations made for or relating to the company's business. There surely are many other approaches to relatively "balanced" employee IP policy. We encourage progressive companies and workers to share their [agreements and lessons](#what-are-some-other-relatively-balanced-approaches). 
 
 ### Why would a an employer want to use BEIPA?
 
@@ -67,6 +67,20 @@ Even within the United States, limits on employer ability to claim *all* employe
 ### Can I use BEIPA?
 
 From an IP (copyright) perspective, the agreement is dedicated to the public domain (see [license](#license) below). But it is offered without warranty (see [disclaimer](#disclaimer) below).
+
+### What are some other relatively balanced approaches?
+
+#### Employer
+
+* A [Model IP/OSS Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/), based on the employee IP agreement used by Rackspace
+
+#### Employee
+
+* [ContractPatch](https://sfconservancy.org/contractpatch/), information about negotiating employment agreements for open source developers
+
+#### Public Policy
+
+* Various U.S. states are considering [non-compete reform](https://www.whitehouse.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition)
 
 ## Disclaimer
 
