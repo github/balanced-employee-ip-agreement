@@ -6,7 +6,7 @@ This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named b
 
    **Why is this?** In order to operate and do business, the Company needs to be clear on what IP it owns and has rights to. This is true both from an internal, operational perspective (e.g., accounting issues, revenue recognition and the like) as well as an outward-facing one (e.g., customers want to know that the Company has the legal rights to the products and services it's providing).
 
-   The Company also believes that it's important to be clear on what it doesn't own. The Company doesn't want you looking over your shoulder every time you work on something personal or worrying that the Company will someday seize your open-sourced World of Warcraft add-ons. In other words, the Company isn't interested in appropriating your personal projects.
+   The Company also believes that it's important to be clear on what it doesn't own. The Company doesn't want you looking over your shoulder every time you work on something personal or worrying that the Company will someday seize your open source non-lethal mousetrap simulation software. In other words, the Company isn't interested in appropriating your personal projects.
 
    **Read this.** Please read this document and be sure you understand it before you sign it. Due to legal risk and corporate obligations, the Company cannot, by and large, negotiate its terms. If you feel you have a particular circumstance that keeps you from signing, please let the Company's legal department ("Legal") know. And, of course, you're always free and encouraged to get your own legal counsel to explain anything you're not clear on.  
 
