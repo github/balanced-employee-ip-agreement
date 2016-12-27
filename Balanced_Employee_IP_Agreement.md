@@ -4,7 +4,7 @@ This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named b
 
 1. **What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company.
 
-   **Why is this?** In order to operate and do business, the Company needs to be clear on what IP it owns and has rights to. This is true both from an internal, operational perspective (e.g., accounting issues, revenue recognition and the like) as well as an outward-facing one (e.g., customers want to know that the Company has the legal rights to the products and services it's providing).
+  **Why is this?** The Company needs to be clear on what IP it owns and has rights to. Its customers, employees, and investors depend on the Company having the legal rights to the products and services it is providing so that the Company can continue operating and doing business.
 
    The Company also believes that it's important to be clear on what it doesn't own. The Company doesn't want you looking over your shoulder every time you work on something personal or worrying that the Company will someday seize your open source non-lethal mousetrap simulation software. In other words, the Company isn't interested in appropriating your personal projects.
 
