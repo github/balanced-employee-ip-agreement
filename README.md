@@ -72,7 +72,7 @@ From an IP (copyright) perspective, the agreement is dedicated to the public dom
 
 #### Employer
 
-* A [Model IP/OSS Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/), based on the employee IP agreement used by Rackspace
+* A [Model IP/OSS Policy](http://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source), based on the employee IP agreement used by Rackspace
 
 #### Employee
 
