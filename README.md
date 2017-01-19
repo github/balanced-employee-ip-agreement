@@ -1,6 +1,6 @@
 # Balanced Employee IP Agreement (BEIPA)
 
-IP agreements often take an unbalanced approach to assignment of IP that is created by their employees and attempt to assign overly broad intellectual property rights to the company. A company using [BEIPA](Balanced_Employee_IP_Agreement.md) doesn't try to claim control of an employee's free time knowledge production, nor does it try to extend company control past the period of employment. Think of BEIPA as a commitment to employee autonomy and "work/life balance" – for the mind. BEIPA assigns the right to the company only if the IP was created by the employee in their employee capacity, **and** if it meets one or more of these additional conditions: The IP (i) relates to an existing or prospective company product or service, (ii) was developed for use by the company, (iii) was developed or promoted with existing company IP or with the company’s endorsement. To the employee under any other circumstances. 
+[BEIPA](Balanced_Employee_IP_Agreement.md) takes a balanced approach to assigning control of intellectual property (IP) created by an employee. To the company if the IP was created by the employee in their employee capacity **and** meets one or more of these additional conditions: The IP (i) relates to an existing or prospective company product or service, (ii) was developed for use by the company, (iii) was developed or promoted with existing company IP or with the company's endorsement. To the employee under any other circumstances. A company using BEIPA doesn't try to claim control of an employee's free time knowledge production, nor does it try to extend company control past the period of employment. Think of BEIPA as a commitment to employee autonomy and "work/life balance" – for the mind.
 
 BEIPA was started as a re-usable version of GitHub's employee IP agreement. Your company can use BEIPA too, and modify it as needed. If you'd like to help improve BEIPA for everyone, file an issue or make a pull request. While aiming to maintain the same "balanced" policy, we're keen to see feedback and suggestions for improving BEIPA. Tell us about:
 
@@ -20,15 +20,15 @@ Contributors to this project are not your lawyers and nothing in this repository
 
 ### How does BEIPA differ from other employee IP agreements?
 
-Many employee IP agreements are very generous – to the employer. To the extent [allowable by law](#in-what-jurisdictions-is-beipa-applicable), employers often use the IP agreement to get control over everything the employee creates during the period of employment, 24/7, over work created before the period of employment, and sometimes even to gain control over what a former employee creates (through "non-compete" terms). For an overview, see _[The New Cognitive Property: Human Capital Law and the Reach of Intellectual Property](https://ssrn.com/abstract=2517604)_.
+Many employee IP agreements are very generous – to employers. To the extent [allowable by law](#in-what-jurisdictions-is-beipa-applicable), employers get control over everything employees create while employed, 24/7, over work created before their employment, and sometimes even to gain control over what former employees create through "non-compete" terms. For an overview, see _[The New Cognitive Property: Human Capital Law and the Reach of Intellectual Property](https://ssrn.com/abstract=2517604)_.
 
-BEIPA only claims control of what the employee creates during the period of employment, and only creations made for or relating to the company's business. There surely are many other approaches to relatively "balanced" employee IP policy. We encourage progressive companies and workers to share their [agreements and lessons](#what-are-some-other-relatively-balanced-approaches). 
+BEIPA only claims control of what the employee creates during the period of employment, and only creations made for or relating to the company's business. There surely are many other approaches to relatively "balanced" employee IP policy. We encourage progressive companies and workers to share their [agreements and lessons](#what-are-some-other-relatively-balanced-approaches).
 
 ### Why would a an employer want to use BEIPA?
 
-Your best employees are creative all of the time. BEIPA is good for their recruitment, retention, and motivation – just like other practices and policies that authentically promote work/life balance and autonomy:
+Your best employees are creative all of the time. BEIPA is good for recruitment, retention, and motivation – just like other practices and policies that authentically promote work/life balance and autonomy:
 
-* The employees who feel they need to look over their shoulder and hide personal projects unrelated to the business are demotivated and set up for conflict.
+* Employees who feel they need to look over their shoulder and hide personal projects unrelated to the business are demotivated and set up for conflict.
 * You don't want to push out employees who feel they need to leave in order to work on a personal project unrelated to the business.
 * You don't want to keep employees who are staying only because they're uncertain whether they have the rights to leave and work on a project unrelated to the business full time.
 * You want to encourage employee learning through creation and contributions to their communities (e.g., through open source), unhindered by need for employer permission.
@@ -42,7 +42,7 @@ You don't want to have to look over your shoulder or hide, feel forced into stay
 
 We know that societies and industries prosper when there is clear and fair (thus efficient and legitimate) property ownership and high labor autonomy and mobility. Employer control of all IP created by employees, even created during free time and not related to the business, sets up conflict, is perceived as unfair, and has employees and their ideas trapped. The effects of such control projected into the future (or not) has been well [studied](http://webdoc.sub.gwdg.de/ebook/serien/lm/DRUIDwp/10-02.pdf): the non-enforceability of non-compete agreements in California is one of the key advantages Silicon Valley has had over other regions, where employees have to wait years to strike out on their own.
 
-Broad adoption of BEIPA should have similar beneficial effects for the communities, and industries in which BEIPA is adopted.
+Broad adoption of BEIPA should have similar beneficial effects for the communities and industries in which BEIPA is adopted.
 
 ### What does BEIPA mean for open source?
 
@@ -62,11 +62,11 @@ If employer and employee have particular patent objectives, they could be spelle
 
 BEIPA was written for the United States. Feedback on making it more useful in any jurisdiction is most welcome.
 
-Even within the United States, limits on employer ability to claim *all* employee-created IP vary. In [California](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&chapter=2.&lawCode=LAB&article=3.5.) the main difference made by BEIPA is that IP developed with company equipment or relating to the company's business, but in an employee's free time and which the employee is not involved in as an employee, is not owned by the company – the employee owns anything done in their free time which does not relate to their work as an employee. This recognizes that ownership of devices at hand or relatedness to an employer's potentially vast range of business are not clear criteria for distinguishing IP ownership of the knowledge ouputs. In some states with less employee-friendly law, BEIPA makes a bigger difference relative to the maximum employer control allowable by law often baked into employee IP agreements. 
+Even within the United States, limits on employer ability to claim *all* employee-created IP vary. In [California](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&chapter=2.&lawCode=LAB&article=3.5.) the main difference made by BEIPA is that IP developed with company equipment or relating to the company's business, but in an employee's free time and which the employee is not involved in as an employee, is not owned by the company – the employee owns anything done in their free time which does not relate to their work as an employee. This recognizes that segregating one's life activities based on ownership of devices at hand or relatedness to an employer's potentially vast range of business that an individual employee is not involved in as an employee imposes significant cognitive overhead and often doesn't happen in practice, whatever agreements state. In some states with less employee-friendly law, BEIPA makes a bigger difference relative to the maximum employer control allowable by law often baked into employee IP agreements.
 
 ### Can I use BEIPA?
 
-From an IP (copyright) perspective, the agreement is dedicated to the public domain (see [license](#license) below) so the answer is yes. But please be reminded that it is offered without warranty (see [disclaimer](#disclaimer) below).
+From an IP (copyright) perspective, the agreement is dedicated to the public domain (see [license](#license) below), so the answer is yes. But please be reminded that it is offered without warranty (see [disclaimer](#disclaimer) below).
 
 ### What are some other relatively balanced approaches?
 
