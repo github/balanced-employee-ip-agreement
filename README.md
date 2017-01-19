@@ -15,8 +15,11 @@ Contributors to this project must abide by our [Code of Conduct](CODE_OF_CONDUCT
 
 Contributors to this project are not your lawyers and nothing in this repository is legal advice. See extended [disclaimer](#disclaimer) below.
 
-
 ## FAQ
+
+### Why are employee IP agreements deemed necessary by employers?
+
+In the United States, without an express agreement employers usually own [works subject to copyright](https://www.copyright.gov/circs/circ09.pdf) and have either [ownership or a "shop right" to use inventions](http://scholars.law.unlv.edu/cgi/viewcontent.cgi?article=1251&context=nlj#page=2). With an express agreement, employers can obtain lower risk, more certainty, and more control over more IP in more situations – so it's easy to understand that robust IP agreements with employees (and contractors) are necessary. But it's possible for IP agreements to go too far...
 
 ### How does BEIPA differ from other employee IP agreements?
 
