@@ -83,7 +83,7 @@ From an IP (copyright) perspective, the agreement is dedicated to the public dom
 
 #### Public Policy
 
-* Various U.S. states are considering [non-compete reform](https://www.whitehouse.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition)
+* Various U.S. states are considering [non-compete reform](https://obamawhitehouse.archives.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition)
 
 ## Disclaimer
 
