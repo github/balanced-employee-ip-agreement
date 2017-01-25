@@ -139,7 +139,7 @@ Chapter 39 Employment Inventions Act
 (7) An employer may not require his employees to agree to anything unenforceable under Subsection (1) as a condition of employment or the continuation of employment.
 (8) Nothing in this chapter invalidates or renders unenforceable any employment agreement or provisions of an employment agreement unrelated to employment inventions.
  Enacted by Chapter 217, 1989 General Session 
- ```
+```
 
 #### Washington
 
