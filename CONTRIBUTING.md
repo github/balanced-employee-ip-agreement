@@ -4,4 +4,4 @@ Contributors to this project must abide by our [Code of Conduct](CODE_OF_CONDUCT
 
 Our [README](README.md) describes the project, its purpose, and caveats.
 
-Your contributions are most welcome!
+The README also suggests several types of valuable contributions. Your contributions are most welcome!
