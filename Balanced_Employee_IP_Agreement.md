@@ -16,7 +16,7 @@ This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named b
 
    "Company IP" includes concepts, inventions, designs, developments, discoveries, ideas, improvements, trade secrets, trademarks and any original works of authorship.
 
-3. **What the Company doesn't own.** If you create IP that doesn't fit into one of the categories listed above, the Company doesn't own it. In other words, the Company doesn't own any concepts, designs, developments, discoveries, ideas, improvements, trade secrets, or any works of authorship that you develop, invent or create that do not meet any of the conditions above in Section 2.0. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
+3. **What the Company doesn't own.** If you create IP that doesn't fit into one of the categories listed above, the Company doesn't own it. In other words, the Company doesn't own any concepts, designs, developments, discoveries, ideas, improvements, trade secrets, or any works of authorship that you develop, invent or create that do not meet any of the conditions above in Section 2. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
    The Company also doesn't own IP excluded by laws such as those listed in Exhibit A. You acknowledge you have reviewed Exhibit A and have read those laws applicable to you.
 
