@@ -27,6 +27,15 @@ BEIPA applies MAJOR.MINOR.PATCH [semantic versioning](http://semver.org/) to its
 2. MINOR version when agreement changes do not change objectives of agreement but are substantial enough to merit legal scrutiny from any user.
 3. PATCH version for corrections which any user would likely want to accept with minimal additional review.
 
+Any change to the agreement text mandates a new version. Before merging any change to the agreement to master, a maintainer will:
+
+1. Have changes reviewed by GitHub Legal.
+2. Update version number in the agreement title/heading and commit to branch to be merged.
+3. Merge branch with new version.
+4. Tag and push: `git tag v.x.x.x; git push --tags`
+
+This process may become more involved if and when required by translations, support for additional jurisdictions, or desire to have old versions available in source tree, rather than only in history. At this time it is not necessary to design these procedures before they are needed.
+
 ## Resources
 
 - [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
