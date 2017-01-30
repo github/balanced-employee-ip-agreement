@@ -18,7 +18,7 @@ Many employee IP agreements are very generous – to employers. To the extent [a
 
 BEIPA only claims control of what the employee creates during the period of employment, and only creations made for or relating to the company's business. There surely are many other approaches to relatively "balanced" employee IP policy. We encourage progressive companies and workers to share their [agreements and lessons](#what-are-some-other-relatively-balanced-approaches).
 
-### Why would a an employer want to use BEIPA?
+### Why would an employer want to use BEIPA?
 
 Your best employees are creative all of the time. BEIPA is good for recruitment, retention, and motivation – just like other practices and policies that authentically promote work/life balance and autonomy:
 
