@@ -19,6 +19,14 @@ Browse [open issues](https://github.com/github/balanced-employee-ip-agreement/is
 
 [Open an issue](https://github.com/github/balanced-employee-ip-agreement/issues/new) to tell us about any of the above. You may also open a pull request to propose specific changes, but it's always OK to start with an issue.
 
+## Versioning
+
+BEIPA applies MAJOR.MINOR.PATCH [semantic versioning](http://semver.org/) to its domain as follows:
+
+1. MAJOR version when objectives of agreement change. A company using BEIPA would have to fully evaluate a new major version to determine fit.
+2. MINOR version when agreement changes do not change objectives of agreement but are substantial enough to merit legal scrutiny from any user.
+3. PATCH version for corrections which any user would likely want to accept with minimal additional review.
+
 ## Resources
 
 - [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)

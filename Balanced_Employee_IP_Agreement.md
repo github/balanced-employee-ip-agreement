@@ -1,4 +1,4 @@
-# Balanced Employee Intellectual Property Agreement  
+# Balanced Employee Intellectual Property Agreement 1.0.0
 
 This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named below and [COMPANY NAME], a [State of Incorporation] corporation ("Company").
 
