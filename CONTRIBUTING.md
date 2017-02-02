@@ -31,8 +31,12 @@ Any change to the agreement text mandates a new version. Before merging any chan
 
 1. Have changes reviewed by GitHub Legal.
 2. Update version number in the agreement title/heading and commit to branch to be merged.
-3. Merge branch with new version.
-4. Tag and push: `git tag v.x.x.x; git push --tags`
+3. Update docx, odt, and pdf copies of the agreement and commit to branch to be merged:
+  - `pandoc --smart -f commonmark Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.docx`
+  - `pandoc --smart -f commonmark Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.odt`
+  - `pandoc --latex-engine=xelatex --smart -f commonmark Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.pdf`  
+4. Merge branch with new version.
+5. Tag and push: `git tag v.x.x.x; git push --tags`
 
 This process may become more involved if and when required by translations, support for additional jurisdictions, or desire to have old versions available in source tree, rather than only in history. At this time it is not necessary to design these procedures before they are needed.
 
