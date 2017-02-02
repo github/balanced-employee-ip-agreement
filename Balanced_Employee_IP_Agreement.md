@@ -45,6 +45,7 @@ Sign: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 Date: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
+---
 
 ## Exhibit A: Laws Concerning Employment Agreements and Intellectual Property Assignment
 
