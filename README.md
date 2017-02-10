@@ -78,6 +78,10 @@ From an IP (copyright) perspective, the agreement is dedicated to the public dom
 
 * Various U.S. states are considering [non-compete reform](https://obamawhitehouse.archives.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition)
 
+## Acknowledgements
+
+[@hoolio](https://github.com/hoolio), [@jessephus](https://github.com/jessephus), and [@talniv](https://github.com/talniv), with feedback from GitHub employees and external counsel, created GitHub's employee IP agreement, which BEIPA makes re-usable.
+
 ## Disclaimer
 
 GitHub, Inc. is not a law firm and does not offer legal advice. GitHub, Inc. and contributors to BEIPA offer no warranty of any kind and disclaim all forms of liability for BEIPA. Consult with your own attorney before using BEIPA.
