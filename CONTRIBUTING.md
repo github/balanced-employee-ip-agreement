@@ -19,6 +19,8 @@ Browse [open issues](https://github.com/github/balanced-employee-ip-agreement/is
 
 [Open an issue](https://github.com/github/balanced-employee-ip-agreement/issues/new) to tell us about any of the above. You may also open a pull request to propose specific changes, but it's always OK to start with an issue.
 
+Substantive questions about and suggestions for BEIPA are welcome. We'll try to acknowledge them promptly, but may take a long time to respond on the substance, if we can. GitHub uses a version of the agreement, so our communication about it and direction for its development must be carefully considered. Also, remember that such communication [is not legal advice and comes without warranty](README.md#disclaimer).
+
 ## Versioning
 
 BEIPA applies MAJOR.MINOR.PATCH [semantic versioning](http://semver.org/) to its domain as follows:
