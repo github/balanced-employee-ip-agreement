@@ -1,4 +1,4 @@
-# Balanced Employee Intellectual Property Agreement 1.0.0
+# Balanced Employee Intellectual Property Agreement 1.0.1
 
 This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named below and [COMPANY NAME], a [State of Incorporation] corporation ("Company").
 
@@ -14,9 +14,9 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
 1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create _as its employee or contractor_, but only if it meets one or more of these additional conditions: The IP (i) related to an existing or prospective Company product or service at the time you developed, invented, or created it, (ii) was developed for use by the Company, (iii) was developed or promoted with existing Company IP or with the Company's endorsement. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
 
-   "Company IP" includes concepts, inventions, designs, developments, discoveries, ideas, improvements, trade secrets, trademarks and any original works of authorship.
+   "Company IP" includes concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, and works of authorship.
 
-2. **What the Company doesn't own.** If you create IP that doesn't fit into one of the categories listed above, the Company doesn't own it. In other words, the Company doesn't own any concepts, designs, developments, discoveries, ideas, improvements, trade secrets, or any works of authorship that you develop, invent or create that do not meet any of the conditions above in Section 2. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
+2. **What the Company doesn't own.** If you create IP that doesn't fit into one of the categories listed above, the Company doesn't own it. In other words, the Company doesn't own concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, or works of authorship that you develop, invent, or create that do not meet any of the conditions in Section 1. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
    The Company also doesn't own IP excluded by laws such as those listed in Exhibit A. You acknowledge you have reviewed Exhibit A and have read those laws applicable to you.
 
