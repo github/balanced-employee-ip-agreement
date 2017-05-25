@@ -1,8 +1,8 @@
-# Balanced Employee Intellectual Property Agreement 1.0.1
+# Balanced Employee Intellectual Property Agreement 2.0.0
 
 This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named below and [COMPANY NAME], a [State of Incorporation] corporation ("Company").
 
-**What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company.
+**What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company. "IP" includes concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, and works of authorship.
 
 **Why is this?** The Company needs to be clear on what IP it owns and has rights to. Its customers, employees, and investors depend on the Company having the legal rights to the products and services it is providing so that the Company can continue operating and doing business.
 
@@ -12,9 +12,7 @@ The Company also believes that it's important to be clear on what it doesn't own
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
-1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create _as its employee or contractor_, but only if it meets one or more of these additional conditions: The IP (i) related to an existing or prospective Company product or service at the time you developed, invented, or created it, (ii) was developed for use by the Company, (iii) was developed or promoted with existing Company IP or with the Company's endorsement. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
-
-   "Company IP" includes concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, and works of authorship.
+1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create during the term of your employment or contract work, _within the scope of your responsibilities as an employee or contractor_. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
 
 2. **What the Company doesn't own.** If you create IP that doesn't fit into one of the categories listed above, the Company doesn't own it. In other words, the Company doesn't own concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, or works of authorship that you develop, invent, or create that do not meet any of the conditions in Section 1. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
@@ -22,7 +20,9 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
 3. **Contribution of your IP to Company projects.** If you include your own IP – such as IP you created prior to working for the Company – into a Company product or service, it's still yours, of course, but you grant the Company a nonexclusive, irrevocable, fully paid-up, royalty-free, perpetual, sub-licensable, transferable, worldwide license to use it without restriction in any way or implementation, in modified form, or as is, by itself, or incorporated into another product or service ("License"). If you include your name in any project over which the Company would have rights under this Agreement, such as in a copyright notice or a comment in code or documentation, then the License covers the rights associated with that use of your name as well.
 
-4. **Your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit IP to entities other than the Company, such as open source projects used by the Company.  Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so. These agreements may be legally binding on the Company and so should be run through Legal first.
+   The License also covers any IP that you create, or help create during the term of your employment or contract work, _outside the scope of your responsibilities as an employee or contractor_, but only if it meets one or more of these additional conditions: The IP (i) related to an existing or prospective Company product or service at the time you developed, invented, or created it, (ii) was developed for use by the Company, (iii) was developed or promoted with existing Company IP or with the Company's endorsement.
+
+4. **Your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit Company IP to entities other than the Company, such as open source projects used by the Company.  Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so. These agreements may be legally binding on the Company and so should be run through Legal first.
 
 5. **Works made for hire.** All Company IP that you are involved with or create as part of your work for the Company are [works made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and are compensated by your regular salary or pay.
 
