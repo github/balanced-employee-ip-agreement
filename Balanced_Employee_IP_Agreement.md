@@ -24,7 +24,7 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
 4. **Your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit Company IP to entities other than the Company, such as open source projects used by the Company.  Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so. These agreements may be legally binding on the Company and so should be run through Legal first.
 
-5. **Works made for hire.** All Company IP that you are involved with or create as part of your work for the Company are [works made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and are compensated by your regular salary or pay.
+5. **Works made for hire.** All Company IP that you are involved with or create as part of your work for the Company is [work made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and compensated by your regular salary or pay.
 
 6. **No conflicts.** You agree that you don't have any outstanding agreements or obligations that conflict with those in this Agreement, and that you won't enter into conflicting agreements in the future.
 
