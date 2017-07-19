@@ -6,6 +6,8 @@ BEIPA was started as a reusable version of GitHub's employee IP agreement. Your 
 
 Contributors to this project are not your lawyers and nothing in this repository is legal advice. See extended [disclaimer](#disclaimer) below.
 
+PDF, ODT, and DOCX copies of BEIPA are [available for download](https://github.com/github/balanced-employee-ip-agreement/releases/latest).
+
 ## FAQ
 
 ### Why are employee IP agreements deemed necessary by employers?
