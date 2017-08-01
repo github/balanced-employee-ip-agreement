@@ -36,7 +36,7 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
    "Confidential Information" includes non-public technical details about our products or services, financial information, business strategies and forecasts, customer data, or any other information, data or know-how that is valuable to the Company because it is not publicly known.
 
-   The Company's Confidential Information is sensitive and we expect that you'll treat it as such. You agree to only use the Company's Confidential Information for the purpose of performing your job and for the benefit of the Company. You will do your best to keep internal Company information secret. If you are not sure if something is Confidential Information, you should assume that it is, until you can confirm otherwise.
+   The Company's Confidential Information is sensitive and we expect that you'll treat it as such. You agree to only use the Company's Confidential Information for the purpose of performing your job and for the benefit of the Company. You will do your best to keep Confidential Information secret. If you are not sure if something is Confidential Information, you should assume that it is, until you can confirm otherwise.
 
 
 Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿
