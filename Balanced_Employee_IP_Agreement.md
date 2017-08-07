@@ -12,7 +12,7 @@ The Company also believes that it's important to be clear on what it doesn't own
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
-1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create during the term of your employment or contract work, _within the scope of your responsibilities as an employee or contractor_. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
+1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create during the term of your employment or contract work, _within the scope of your responsibilities as an employee or contractor_. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP. All Company IP that you are involved with or create as part of your work for the Company is [work made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and compensated by your regular salary or pay.
 
 2. **What the Company doesn't own.** If you create IP outside the scope of your responsibilities as an employee or contractor, the Company doesn't own it. In other words, the Company doesn't own concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, or works of authorship that you develop, invent, or create that do not meet any of the conditions in Section 1. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
@@ -25,8 +25,6 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 4. **Check with Legal on using non-Company IP in Company projects.** When the Company relies on a license to use non-Company IP (such as IP you own or that was created by others and submitted to an open source project) in Company projects, Legal needs to be clear that the license is adequate. You agree to follow Company policies and procedures for using non-Company IP in Company projects, and to check with Legal for any situation not clearly and fully addressed by Company policy.
 
 5. **Check with Legal on your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit Company IP to entities other than the Company, such as open source projects used by the Company.  Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so.
-
-5. **Works made for hire.** All Company IP that you are involved with or create as part of your work for the Company is [work made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and compensated by your regular salary or pay.
 
 6. **No conflicts.** You agree that you don't have any outstanding agreements or obligations that conflict with those in this Agreement, and that you won't enter into conflicting agreements in the future.
 
