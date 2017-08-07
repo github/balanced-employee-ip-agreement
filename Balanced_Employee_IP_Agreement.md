@@ -24,7 +24,7 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
 4. **Check with Legal on using non-Company IP in Company projects.** When the Company relies on a license to use non-Company IP (such as IP you own or that was created by others and submitted to an open source project) in Company projects, Legal needs to be clear that the license is adequate. You agree to follow Company policies and procedures for using non-Company IP in Company projects, and to check with Legal for any situation not clearly and fully addressed by Company policy.
 
-5. **Check with Legal on your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit Company IP to entities other than the Company, such as open source projects used by the Company.  Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so.
+5. **Check with Legal on your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit Company IP to entities other than the Company, such as open source projects used by the Company. Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so.
 
 6. **No conflicts.** You agree that you don't have any outstanding agreements or obligations that conflict with those in this Agreement, and that you won't enter into conflicting agreements in the future.
 
