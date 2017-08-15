@@ -66,6 +66,10 @@ See [Exhibit A: Laws Concerning Employment Agreements and Intellectual Property 
 
 From an IP (copyright) perspective, the agreement is dedicated to the public domain (see [license](#license) below), so the answer is yes. But please be reminded that it is offered without warranty (see [disclaimer](#disclaimer) below).
 
+### How is BEIPA pronounced?
+
+Think Beijing. Say Bay-pa.
+
 ### What are some other relatively balanced approaches?
 
 #### Employer
