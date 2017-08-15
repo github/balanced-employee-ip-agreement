@@ -52,7 +52,7 @@ A different employee IP agreement *could* stipulate that all IP created by the e
 
 BEIPA covers all forms of IP. A BEIPA covered employee can file a patent on a free-time project unrelated to the employer's business, and the employee would own it.
 
-If employer and employee have particular patent objectives, they could be spelled out in a different or complementary IP agreement or other policy. One example of such an agreement is the [Innovator's Patent Agreement](https://github.com/twitter/innovators-patent-agreement) from Twitter, a commitment from a company to its employees that the company will not use patents in offensive litigation without the permission of the inventors. Other pertinent policy choices include participation in anti-troll and non-aggression networks such as [LOT](http://lotnet.com/) and [OIN](http://www.openinventionnetwork.com/), as well as contributing to open source projects.
+If employer and employee have particular patent objectives, they could be spelled out in a different or complementary IP agreement or other policy. One example of such an agreement is the [Innovator's Patent Agreement](https://github.com/twitter/innovators-patent-agreement) from Twitter, a commitment from a company to its employees that the company will not use patents in offensive litigation without the permission of the inventors. Other pertinent policy choices include participation in anti-troll and non-aggression networks such as [LOT](http://lotnet.com/) and [OIN](https://www.openinventionnetwork.com/), as well as contributing to open source projects.
 
 ### In what jurisdictions is BEIPA applicable?
 
