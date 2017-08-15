@@ -74,15 +74,15 @@ Think Beijing. Say Bay-pa.
 
 #### Employer
 
-* A [Model IP/OSS Policy](https://processmechanics.com/a-model-ip-and-open-source-contribution-policy/), based on the employee IP agreement used by Rackspace
+Defaults matter _a lot_, but clear and well-executed processes that allow employees to own personal projects or contribute to open source can also contribute significantly to balance. A [Model IP/OSS Policy](https://processmechanics.com/a-model-ip-and-open-source-contribution-policy/) documents such processes in an employee IP agreement, based on practice at Rackspace. Google has publicly documented some of their processes for [personal project ownership](https://opensource.google.com/docs/iarc/) and [releasing open source](https://opensource.google.com/docs/releasing/).
 
 #### Employee
 
-* [ContractPatch](https://sfconservancy.org/contractpatch/), information about negotiating employment agreements for open source developers
+[ContractPatch](https://sfconservancy.org/contractpatch/), information about negotiating employment agreements for open source developers.
 
 #### Public Policy
 
-* Various U.S. states are considering [non-compete reform](https://obamawhitehouse.archives.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition)
+Various U.S. states are considering [non-compete reform](https://obamawhitehouse.archives.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition).
 
 ## Acknowledgements
 
