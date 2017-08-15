@@ -1,6 +1,6 @@
 # Balanced Employee IP Agreement (BEIPA)
 
-[BEIPA](Balanced_Employee_IP_Agreement.md) takes a balanced approach to assigning control of intellectual property (IP) created by an employee. The employee maintains control unless they created the IP in their employee capacity and the IP relates to an existing or prospective company product or service, or was developed for use by the company, or was developed or promoted with existing company IP or with the company's endorsement. A company using BEIPA doesn't try to claim control of an employee's free time knowledge production, nor does it try to extend company control past the period of employment. Think of BEIPA as a commitment to employee autonomy and "work/life balance" – for the mind.
+[BEIPA](Balanced_Employee_IP_Agreement.md) takes a balanced approach to assigning control of intellectual property (IP) created by an employee. The employee maintains control unless they created the IP in their employee capacity and the IP relates to an existing or prospective company product or service, or was developed for use by the company, or was developed or promoted with existing company IP or with the company's endorsement. A company using BEIPA doesn't try to claim control of an employee's free time knowledge production, nor does it try to extend company control past the period of employment. Think of BEIPA as a commitment to employee autonomy and "work-life balance" – for the mind.
 
 BEIPA was started as a reusable version of GitHub's employee IP agreement. Your company can use BEIPA too, and modify it as needed. If you'd like to help improve BEIPA for everyone, file an issue or make a pull request. While aiming to maintain the same "balanced" policy, we're keen to see feedback and suggestions for improving BEIPA and associated documentation. Please read our [contributing guidelines and instructions](CONTRIBUTING.md).
 
@@ -22,7 +22,7 @@ BEIPA only claims control of what the employee creates during the period of empl
 
 ### Why would an employer want to use BEIPA?
 
-Your best employees are creative all of the time. BEIPA is good for recruitment, retention, and motivation – just like other practices and policies that authentically promote work/life balance and autonomy:
+Your best employees are creative all of the time. BEIPA is good for recruitment, retention, and motivation – just like other practices and policies that authentically promote work-life balance and autonomy:
 
 * Employees who feel they need to look over their shoulder and hide personal projects unrelated to the business are demotivated and set up for conflict.
 * You don't want to push out employees who feel they need to leave in order to work on a personal project unrelated to the business.
@@ -82,7 +82,7 @@ From an IP (copyright) perspective, the agreement is dedicated to the public dom
 
 ## Acknowledgements
 
-[@hoolio](https://github.com/hoolio), [@jessephus](https://github.com/jessephus), and [@talniv](https://github.com/talniv), with feedback from GitHub employees and external counsel, created GitHub's employee IP agreement, which BEIPA makes re-usable.
+[@hoolio](https://github.com/hoolio), [@jessephus](https://github.com/jessephus), and [@talniv](https://github.com/talniv), with feedback from GitHub employees and external counsel, created GitHub's employee IP agreement, which BEIPA makes reusable.
 
 ## Disclaimer
 
