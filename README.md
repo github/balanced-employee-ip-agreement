@@ -74,7 +74,7 @@ Think Beijing. Say Bay-pa.
 
 #### Employer
 
-Defaults matter _a lot_, but clear and well-executed processes that allow employees to own personal projects or contribute to open source can also contribute significantly to balance. A [Model IP/OSS Policy](https://processmechanics.com/a-model-ip-and-open-source-contribution-policy/) documents such processes in an employee IP agreement, based on practice at Rackspace. Google has publicly documented some of their processes for [personal project ownership](https://opensource.google.com/docs/iarc/) and [releasing open source](https://opensource.google.com/docs/releasing/).
+Defaults matter _a lot_, but clear and well-executed processes that allow employees to own personal projects or contribute to open source can also contribute significantly to balance. A [Model IP/OSS Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) documents such processes in an employee IP agreement, based on practice at Rackspace. Google has publicly documented some of their processes for [personal project ownership](https://opensource.google.com/docs/iarc/) and [releasing open source](https://opensource.google.com/docs/releasing/).
 
 #### Employee
 
