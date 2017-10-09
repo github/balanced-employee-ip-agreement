@@ -34,7 +34,7 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
    You agree to only use the Company's Confidential Information for the purpose of performing your job and for the benefit of the Company. You will do your best to keep internal Company information secret, including after you end your work for the Company. If you are not sure if something is Confidential Information, you should assume that it is, until you can confirm otherwise.
 
-   Please be aware, however, that under the Defend Trade Secrets Act of 2016, you have the right to disclose trade secrets, confidentially, to the government or a lawyer for the purpose of reporting or investigating a suspected violation of law, or you may disclose trade secrets in documents filed under seal in a legal proceeding.
+   Please be aware, however, that under the [Defend Trade Secrets Act of 2016](http://uscode.house.gov/view.xhtml?req=title:18%20section:1833%20edition:prelim), you have the right to disclose trade secrets, confidentially, to the government or a lawyer for the purpose of reporting or investigating a suspected violation of law, or you may disclose trade secrets in documents filed under seal in a legal proceeding.
 
 
 Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿
