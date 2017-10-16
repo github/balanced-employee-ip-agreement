@@ -82,7 +82,7 @@ Defaults matter _a lot_, but clear and well-executed processes that allow employ
 
 #### Public Policy
 
-Various U.S. states are considering [non-compete reform](https://obamawhitehouse.archives.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition).
+Various U.S. states are considering [non-compete reform](https://obamawhitehouse.archives.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition), tracked at [Fair Competition Law](https://www.faircompetitionlaw.com/).
 
 ## Acknowledgements
 
