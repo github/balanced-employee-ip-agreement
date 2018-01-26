@@ -12,7 +12,7 @@ The Company also believes that it's important to be clear on what it doesn't own
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
-1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create during the term of your employment or contract work, _within the scope of your employment or contract_. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP. All Company IP that you are involved with or create as part of your work for the Company is [work made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and compensated by your regular salary or pay.
+1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create, during the term of your employment or contract work, _within the scope of your employment or contract_. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP. All Company IP that you are involved with or create as part of your work for the Company is [work made for hire](http://www.copyright.gov/circs/circ09.pdf) under copyright law and compensated by your regular salary or pay.
 
 2. **What the Company doesn't own.** If you create IP outside the scope of your employment or contract, the Company doesn't own it. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
