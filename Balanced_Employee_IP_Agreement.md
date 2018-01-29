@@ -4,11 +4,13 @@ This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named b
 
 **What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company. "IP" includes concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, and works of authorship.
 
+**What is this not?** This document only concerns IP ownership and licensing. Please refer to the Company employee handbook, your contract, and other policies on security, confidentiality, acting in the Company's best interest, releasing and maintaining Company open source projects, and other topics related to IP and information and the Company's business. Check with the Company's legal department ("Legal") for any situation not clearly and fully addressed by Company policy.
+
 **Why is this?** The Company needs to be clear on what IP it owns and has rights to. Its customers, employees, and investors depend on the Company having the legal rights to the products and services it is providing so that the Company can continue operating and doing business.
 
 The Company also believes that it's important to be clear on what it doesn't own. The Company doesn't want you looking over your shoulder every time you work on something personal or worrying that the Company will someday seize your open source non-lethal mousetrap simulation software. In other words, the Company isn't interested in appropriating your personal projects.
 
-**Read this.** Please read this document and be sure you understand it before you sign it. Due to legal risk and corporate obligations, the Company cannot, by and large, negotiate its terms. If you feel you have a particular circumstance that keeps you from signing, please let the Company's legal department ("Legal") know. And, of course, you're always free and encouraged to get your own legal counsel to explain anything you're not clear on.
+**Read this.** Please read this document and be sure you understand it before you sign it. Due to legal risk and corporate obligations, the Company cannot, by and large, negotiate its terms. If you feel you have a particular circumstance that keeps you from signing, please let Legal know. And, of course, you're always free and encouraged to get your own legal counsel to explain anything you're not clear on.
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
@@ -22,19 +24,13 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
    The License also covers any IP that you create, or help create during the term of your employment or contract work, _outside the scope of your employment or contract_, but only if it relates to the Company's business or actual or demonstrably anticipated research or development.
 
-4. **Check with Legal on using non-Company IP in Company projects.** When the Company relies on a license to use non-Company IP (such as IP you own or that was created by others and submitted to an open source project) in Company projects, Legal needs to be clear that the license is adequate. You agree to follow Company policies and procedures for using non-Company IP in Company projects, and to check with Legal for any situation not clearly and fully addressed by Company policy.
+4. **Check with Legal on using non-Company IP in Company projects.** When the Company relies on a license to use non-Company IP (such as IP you own or that was created by others and submitted to an open source project) in Company projects, Legal needs to be clear that the license is adequate. You agree to follow Company policies and procedures for using non-Company IP in Company projects.
 
 5. **Check with Legal on your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit Company IP to entities other than the Company, such as open source projects used by the Company. Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so.
 
 6. **No conflicts.** You agree that you don't have any outstanding agreements or obligations that conflict with those in this Agreement, and that you won't enter into conflicting agreements in the future.
 
 7. **Cooperation.** The Company might someday need to show the work that went into the development of IP that it uses or has used, or to make government filings to establish that it owns the IP or has rights over it. To help in those situations, you agree not to destroy any records you maintain relating to the development of any Company IP, and, if the Company asks, to provide those records to the Company. You authorize the Company to act on your behalf (as your agent and attorney-in-fact) in securing all rights related to Company IP. You agree to help the Company secure or defend its rights in Company IP or IP under License in Section 3, including after you leave the Company. For your help after you leave the company, the Company will compensate you at a reasonable rate.
-
-8. **Confidentiality.** As an employee or contractor of the Company, you will have access to sensitive Confidential Information that is important to the Company's business. "Confidential Information" includes non-public technical details about our products or services, financial information, business strategies and forecasts, customer data, or any other information, data or know-how that is valuable to the Company because it is not publicly known. Information is not confidential if it is or becomes known or generally available to the interested public by no fault of yours, or you already knew the information independent of having received it from the Company.
-
-   You agree to only use the Company's Confidential Information for the purpose of performing your job and for the benefit of the Company. You will do your best to keep internal Company information secret, including after you end your work for the Company. If you are not sure if something is Confidential Information, you should assume that it is, until you can confirm otherwise.
-
-   Please be aware, however, that under the [Defend Trade Secrets Act of 2016](http://uscode.house.gov/view.xhtml?req=title:18%20section:1833%20edition:prelim), you have the right to disclose trade secrets, confidentially, to the government or a lawyer for the purpose of reporting or investigating a suspected violation of law, or you may disclose trade secrets in documents filed under seal in a legal proceeding.
 
 
 Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿
