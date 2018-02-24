@@ -20,10 +20,11 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
    The Company also doesn't own IP excluded by laws such as those listed in Exhibit A. You acknowledge you have reviewed Exhibit A and have read those laws applicable to you.
 
-3. **License to Company for your IP.** You grant the Company a non-exclusive, irrevocable, fully paid-up, royalty-free, perpetual, sublicensable, transferable, worldwide license to use your personally-owned IP without restriction in any way or implementation, in modified form, or as is, by itself, or incorporated into a project, product or service ("License"):
+3. **License to Company for your IP.** In some cases, the Company may need rights to IP you create outside of your job. It’s still yours, of course, but in the following circumstances, you grant the Company a non-exclusive, irrevocable, fully paid-up, royalty-free, perpetual, sublicensable, transferable, worldwide license to use your personally-owned IP without restriction in any way or implementation, in modified form, or as is, by itself, or incorporated into a project, product, or service ("License"):
 
-   1. If you agree to the use of your IP – such as IP you created prior to working for the Company – in a Company project, product or service;
-   2. For any IP that you create, or help create during the term of your employment or contract work, _outside the scope of your employment or contract_, if it relates to the Company's business, operations, or actual or demonstrably anticipated research or development.
+   (a) If you agree to the use of your IP – such as IP you created prior to working for the Company – in a Company project, product or service;
+
+   (b) For any IP that you create, or help create during the term of your employment or contract work, _outside the scope of your employment or contract_, but only if it relates to the Company's business, operations, or actual or demonstrably anticipated research or development.
 
    If you include your name in any material in which the Company has rights under this Agreement, such as in a copyright notice or a comment in code or documentation, then the License covers the rights associated with that use of your name as well.
 
