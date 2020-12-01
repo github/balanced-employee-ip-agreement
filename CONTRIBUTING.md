@@ -37,9 +37,9 @@ Any change to the agreement text mandates a new version. Before merging any chan
 4. Tag and push: `git tag vx.x.x; git push --tags`
 5. Create docx, odt, and pdf copies of the agreement:
   ```
-  pandoc --smart -f commonmark Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.docx
-  pandoc --smart -f commonmark Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.odt
-  pandoc --latex-engine=xelatex --smart -f commonmark Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.pdf
+  pandoc -f commonmark+smart Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.docx
+  pandoc -f commonmark+smart Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.odt
+  pandoc --pdf-engine=xelatex -f commonmark+smart Balanced_Employee_IP_Agreement.md -o Balanced_Employee_IP_Agreement.pdf
   ```
 6. Make a [release](https://help.github.com/articles/creating-releases/) from the tag created above, adding the docx, odt, and pdf copies as binary attachments.
 7. https://github.com/github/balanced-employee-ip-agreement/releases/latest will show the release just made.
