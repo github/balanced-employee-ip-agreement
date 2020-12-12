@@ -29,7 +29,7 @@ BEIPA applies MAJOR.MINOR.PATCH [semantic versioning](http://semver.org/) to its
 2. MINOR version when agreement changes do not change objectives of agreement but are substantial enough to merit legal scrutiny from any user.
 3. PATCH version for corrections which any user would likely want to accept with minimal additional review.
 
-Any change to the agreement text mandates a new version. Before merging any change to the agreement to master, a maintainer will:
+Any change to the agreement text mandates a new version. Before merging any change to the agreement to main, a maintainer will:
 
 1. Have changes reviewed by GitHub Legal.
 2. Update version number in the agreement title/heading and commit to branch to be merged.
