@@ -2,7 +2,7 @@
 
 This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between the person named below and [COMPANY NAME], a [State of Incorporation] corporation ("Company").
 
-**What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company. "IP" includes concepts, designs, developments, discoveries, ideas, improvements, inventions, patents, trade secrets, trademarks, copyrights, and works of authorship.
+**What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company. "IP" includes without limitation concepts, designs, developments, discoveries, ideas, improvements, inventions, patents, trade secrets, trademarks, copyrights, and works of authorship. In relation to software, IP covers both source code and object code.
 
 **What is this not?** This document only concerns IP ownership and licensing. Please also refer to the Company employee handbook, your contract, and other policies on security, confidentiality, acting in the Company's best interest, releasing and maintaining Company open source projects, and other topics related to IP and information and the Company's business. Check with the Company's legal department ("Legal") for any situation not clearly and fully addressed by Company policies.
 
@@ -14,14 +14,15 @@ The Company also believes that it's important to be clear on what it doesn't own
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
-1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create, during the term of your employment or contract work, _within the scope of your employment or contract_. This is regardless of the time of day you did the work or whether or not you did it using your own equipment. Your compensation for creating Company IP is your regular salary or pay. The Company IP is work made for hire, but to the extent Company doesn't own the rights automatically, you hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
+1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create, during the term of your employment or contract work, _within the scope of your employment or contract_. This is regardless of the time of day you did the work or whether or not you did it using your own equipment or whether or not you did the work in or outside a Company office. Your compensation for creating Company IP is your regular salary or pay, except in cases where you are entitled to a separate payment under applicable mandatory law (Legal will inform you when this might apply). The Company IP is work made for hire, but to the extent Company doesn't own the rights automatically, you hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
+
+   Where an assignment of the full ownership of an IP is not possible as a matter of applicable mandatory law, your assignment to us covers, to the broadest extent possible under such law, the exclusive (also in relation to you), irrevocable, fully paid-up, royalty-free, perpetual, non-terminable, sublicensable (at multiple levels), transferable, worldwide rights to change, modify, combine, and otherwise use and exploit (both commercially and non-commercially) the Company IP in any known and currently unknown manner, without restriction.
 
 2. **What the Company doesn't own.** If you create IP outside the scope of your employment or contract or before or after your employment or contract ("Your IP"), the Company doesn't own it. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
    The Company also doesn't own IP excluded by laws applicable to your employment.
 
-3. **License to Company for Your IP.** In some cases, the Company may need rights to Your IP. It's still yours, of course, but in the following circumstances (a) or (b), you grant the Company a non-exclusive, irrevocable, fully paid-up, royalty-free, perpetual, sublicensable, transferable, worldwide license to use Your IP without restriction 
-("License"):
+3. **License to Company for Your IP.** In some cases, the Company may need rights to Your IP. It's still yours, of course, but in the following circumstances (a) or (b), you grant the Company a non-exclusive, irrevocable, fully paid-up, royalty-free, perpetual, non-terminable, sublicensable (at multiple levels), transferable, worldwide license to change, modify, combine, and otherwise use and exploit (both commercially and non-commercially) Your IP in any known and currently unknown manner, without restriction ("License"):
 
    (a) If you know or should know about the use of Your IP in a Company project, product, service, or internal systems and agree or do not object to that use; or
 
