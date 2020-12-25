@@ -98,3 +98,7 @@ GitHub, Inc. is not a law firm and does not offer legal advice. GitHub, Inc. and
 Dedicated to the public domain under [CC0-1.0](LICENSE.md) by GitHub, Inc. and contributors.
 
 Note that CC0-1.0 does not grant any trademark permissions.
+
+### Norms
+
+If you adapt BEIPA's text for your company's use other than by replacing bracketed `[]` fields, please change its name or state that you've changed the agreement so its no longer BEIPA. If you wish to attribute BEIPA, a [link](https://github.com/github/balanced-employee-ip-agreement) to its repository would be nice. If you'd like to tell us about how you've used BEIPA, or give us feedback, [please do](https://github.com/github/balanced-employee-ip-agreement/blob/main/CONTRIBUTING.md#help-wanted).
