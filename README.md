@@ -29,7 +29,7 @@ Your best employees are creative all of the time. BEIPA is good for recruitment,
 * You don't want to keep employees who are staying only because they're uncertain whether they have the rights needed to leave and work on a side project full time.
 * You want to encourage employee learning through creation and contributions to their communities (e.g., through open source), unhindered by need for employer permission.
 * Controlling employee side projects does not contribute to revenue or profit.
-* Having a non-exlusive license to employee IP _related to the business_ maximizes benefit from employees' 24/7 creativity without the above downsides.
+* Having a non-exclusive license to employee IP _related to the business_ maximizes benefit from employees' 24/7 creativity without the above downsides.
 
 ### Why would an employee want to use BEIPA?
 
