@@ -69,7 +69,9 @@ From an IP (copyright) perspective, the agreement is dedicated to the public dom
 
 ### How is BEIPA pronounced?
 
-Think Beijing. Say Bay-pa.
+In English, think Beijing. Say Bay-pa.
+
+In other languages, use the natural pronunciation based in the spelling.
 
 ### What are some other relatively balanced approaches?
 
