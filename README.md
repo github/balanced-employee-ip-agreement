@@ -83,6 +83,10 @@ Defaults matter _a lot_, but clear and well-executed processes that allow employ
 
 [ContractPatch](https://sfconservancy.org/contractpatch/), information about negotiating employment agreements for open source developers.
 
+#### Shared ownership
+
+[SourceHut documents](https://sourcehut.org/blog/2022-10-09-ip-assignment-or-lack-thereof/) an approach wherein IP is held collectively by all of its employees and the free software license the software is distributed under is used to provide the appropriate rights to all parties. This approach ensures the employees right to co-ownership over their work and increases the staying power of the free software licenses used. This ensures that the workers and the employer have equal ownership and equal rights to the commercialization of the IP.
+
 #### Public Policy
 
 Various U.S. states are considering [non-compete reform](https://obamawhitehouse.archives.gov/the-press-office/2016/10/25/fact-sheet-obama-administration-announces-new-steps-spur-competition), tracked at [Fair Competition Law](https://www.faircompetitionlaw.com/).
