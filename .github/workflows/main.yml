@@ -2,6 +2,9 @@ name: Check Markdown links
 
 on: push
 
+permissions:
+  contents: read
+
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
